@@ -232,15 +232,15 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+__👨‍💻 Developer:__ [Dr. Strange](https://t.me/liqwid_x)
 
-__📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+__📢 Channel:__ [FILES HOME](https://t.me/fileshomeofficial)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [HELP/SUPPORT](https://t.me/fhsupportgrp)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
+__🌐 Source Code:__ [Click Here](https://t.me/kurachkanjiedukkatte)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
+__🚀 Join Our Channel:__ [FILES HOME](https://t.me/fileshomeofficial)
 """
 
     buttons = [[
